@@ -1,7 +1,7 @@
 IT-Status
 =========
 
-Die Datei `index.php` zeigt den aktuellen IT-Status für den Landesverband Mecklenburg-Vorpommern der Piratenpartei Deutschland an.
+Die Datei `index.php` zeigt den aktuellen IT-Status für den Landesverband Mecklenburg-Vorpommern der Piratenpartei Deutschland an. Unsere Version ist unter https://service.piratenpartei-mv.de/status gehostet.
 
 Anpassen
 --------
